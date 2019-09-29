@@ -1,5 +1,5 @@
 # Lab1_DB
-Database lab1, FAM
+Database lab1
 
 
 <h3 align="center">Метою роботи є здобуття практичних навичок створення реляційних баз даних за допомогою PostgreSQL</h3>
