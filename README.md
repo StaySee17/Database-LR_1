@@ -22,12 +22,12 @@ Database lab1, FAM
 
 <h4 align="center">Концептуальна модель учбової предметної області "Волонтерство за кордоном"</h4>
 <p align="center">
-<img src=images/er_scheme.png/>
+<img src=ER_diagrama_edit.png/>
 </p>
 <h4 align="center">Опис структури БД “Волонтерство за кордоном”</h4>
 
 <p align="center">
-<img src=images/table_info.png/>
+<img src=Tables.png/>
 </p>
 <h4 align="center">Структура БД “Волонтерство за кордоном”</h4>
 <p align="center">
