@@ -27,23 +27,23 @@ Database lab1, FAM
 <h4 align="center">Опис структури БД “Волонтерство за кордоном”</h4>
 
 <p align="center">
-<img src=Tables.png/>
+<img src=structure.png/>
 </p>
 <h4 align="center">Структура БД “Волонтерство за кордоном”</h4>
 <p align="center">
-<img src=images/tables.png/>
+<img src=Tables.png/>
 </p>
 
 <h4 align="center">Фотографії таблиць з БД</h4>
 
-![Table-1](images/1.png)
-![Table-2](images/2.png)
-![Table-3](images/3.png)
-![Table-4](images/4.png)
-![Table-5](images/5.png)
-![Table-6](images/6.png)
-![Table-7](images/7.png)
-![Table-8](images/8.png)
-![Table-9](images/9.png)
+![Table-1](table1.png)
+![Table-2](table2.png)
+![Table-3](table3.png)
+![Table-4](output1.png)
+![Table-5](output2.png)
+![Table-6](output3.png)
+![Table-7](output4.png)
+![Table-8](output5.png)
+![Table-9](output6.png)
 ![Table-10](images/10.png)
 ![Table-11](images/11.png)
