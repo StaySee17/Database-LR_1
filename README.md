@@ -12,21 +12,38 @@ Database lab1, FAM
 <li>Перетворити розроблену модель у схему бази даних (таблиці) PostgreSQL та внести декілька рядків даних у кожну з таблиць засобами pgAdmin 4.</li>
   </ul>
 
+<h4 align="center">Опис предметної галузі</h4>
+При проектуванні бази даних “Волонтерство за кордоном” можна виділити такі сутності: Менеджер (EP manager), Проект (Project), Волонтер (Volunteer), Країна (Country), Місто (City).
+Один менеджер може підібрати кілька проектів, і  декілька менеджерів може підібрати один і той самий проект (N:M).
+Один проект можуть обрати декілька волонтерів (1:N).
+В одному місті  можуть реалізовуватись кілька проектів (1:N).
+В одній країні декілька міст (1:N).
 
-<h4 align="center">Концептуальна модель учбової предметної області "Магазин"</h4>
+
+<h4 align="center">Концептуальна модель учбової предметної області "Волонтерство за кордоном"</h4>
 <p align="center">
-<img src=images/er_sсheme.png/>
+<img src=images/er_scheme.png/>
 </p>
-<h4 align="center">Опис структури БД “Магазин”</h4>
+<h4 align="center">Опис структури БД “Волонтерство за кордоном”</h4>
 
 <p align="center">
-<img src=images/info.png/>
+<img src=images/table_info.png/>
 </p>
-<h4 align="center">Структура БД “Магазин”</h4>
+<h4 align="center">Структура БД “Волонтерство за кордоном”</h4>
 <p align="center">
 <img src=images/tables.png/>
 </p>
 
+<h4 align="center">Фотографії таблиць з БД</h4>
 
-
-
+![Table-1](images/1.png)
+![Table-2](images/2.png)
+![Table-3](images/3.png)
+![Table-4](images/4.png)
+![Table-5](images/5.png)
+![Table-6](images/6.png)
+![Table-7](images/7.png)
+![Table-8](images/8.png)
+![Table-9](images/9.png)
+![Table-10](images/10.png)
+![Table-11](images/11.png)
