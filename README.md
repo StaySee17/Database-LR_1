@@ -45,5 +45,4 @@ Database lab1, FAM
 ![Table-7](output4.png)
 ![Table-8](output5.png)
 ![Table-9](output6.png)
-![Table-10](images/10.png)
-![Table-11](images/11.png)
+
